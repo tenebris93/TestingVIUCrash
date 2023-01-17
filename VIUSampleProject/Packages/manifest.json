@@ -51,7 +51,7 @@
   "scopedRegistries": [
     {
       "name": "Vive",
-      "url": "https://npm-registry.vive.com",
+      "url": "https://npm-registry.vive.com/",
       "scopes": [
         "com.htc.upm"
       ]
